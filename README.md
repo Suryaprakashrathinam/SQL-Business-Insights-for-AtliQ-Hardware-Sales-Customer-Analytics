@@ -1,7 +1,7 @@
 # 📊 SQL Business Insights for AtliQ Hardware
 A SQL-based business analytics project on a fictional B2B computer hardware manufacturer, completed as part of the Codebasics SQL Resume Challenge.
 
-Link to the [Challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/7)
+Link to the [challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/7)
 
 ## 📌 Project Overview
 AtliQ Hardware is a fictional B2B computer hardware company that wanted to leverage data-driven insights to improve business decision-making. This project focuses on solving real-world business problems using SQL by analyzing sales, customer, product, manufacturing, and finance data.
@@ -77,3 +77,17 @@ The management team wanted quick and meaningful insights into their business ope
 | Channel Contribution     | <img width="1446" height="843" alt="t9" src="https://github.com/user-attachments/assets/33d0b7a9-a940-4513-9e25-8b03b85fcf54" /> |
 | Top Products by Division | <img width="1433" height="881" alt="t10" src="https://github.com/user-attachments/assets/83eeca64-ba69-4ec8-b703-73f406704378" /> |
 
+## 🚀 Skills Demonstrated
+- SQL for Business Analytics
+- Relational Database Analysis
+- Data Cleaning & Aggregation
+- Business Problem Solving
+- Data Interpretation
+- Analytical Thinking
+- Reporting & Documentation
+
+## 🏆 Project Outcome
+This project demonstrates how SQL can be used to transform raw transactional data into actionable business insights. It reflects real-world analytical workflows used by Data Analysts and Business Intelligence professionals to support strategic business decisions.
+
+## 🔗 Connect With Me
+LinkedIn: [Suryaprakashrathinam](https://www.linkedin.com/in/suryaprakashrathinam/)
